@@ -1,4 +1,4 @@
-# Open Source Declaration / 开源声明
+# Open Source Declaration
 
 **This project is licensed under [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).**
 
@@ -7,7 +7,7 @@ Because I do not speak English, the article is translated by AI, and AI particip
 
 ---
 
-# "Infinite Precision Project: Achieving 1nm Precision for 10,000 Yuan"
+# "Infinite Precision Project: Achieving 1nm Precision for 1000 Yuan"
 
 Hello everyone, I am Zeng Hao from China. I am open-sourcing this project simply because applying for patents and writing papers is more difficult than discovering a new path.
 
@@ -18,9 +18,6 @@ Before sending me a lawyer's letter or initiating legal action, please first inc
 I do not know how people might exploit loopholes to bypass these regulations, but even if you do, your patents, papers, and other carriers must prominently cite the link to this article and include my name. However, even if you do so, I reserve the right to withdraw your publication involving this article and its extended content at any time. By basing your work on, extending, or citing this article, it means you agree to all the terms and interpretations of rights in this entire article.
 
 Now, let us begin.
-
-**For Skeptics: Hypothetical Proof of Principle:**
-Assume there is the world's fastest and most stable rail train validating the feasibility of its rigidity and stability; assume chips are made of glass, thus glass validates the feasibility of its control and precision; assume black-and-white human photographs from a black-and-white camera seem to validate the feasibility of its magnetic field adjustment method. These principle hypotheses are personal conjectures; readers should verify them independently online, and they are unrelated to me.
 
 **And for Experts:**
 
@@ -92,16 +89,39 @@ Each curve was repeated about 5 times and perfectly overlapped as observed by th
 * **The 3rd curve shows:** Based on the 1st curve, using tuning sheets for magnetic field adjustment can improve precision; using twelve 0.1mm thickness 430 stainless steel thin sheets with a single area of about 2c㎡  adjusted the curve with an average error of about 1mm to an average error of about 0.5mm. One tuning sheet is approximately equal to 0.05mm adjustment precision.
 * **The 4th curve shows:** After removing the tuning sheets, the precision returns to the 1st curve; the random distance and placement between the bases each time does not affect the overall result. As long as there is a certain repulsive force from the magnetic fields on the left and right sides, the moving part will automatically return to the center, and the forward direction is determined by the virtual centerline composed of the magnetic fields on both sides.
 
-**Is this the limit of manual work? Why not continue?**
-This is not the limit. In this experiment, 2 rectangular magnets only covered the magnetic field of about 20 round magnets. What if 4 rectangular magnets were used to cover 40 round magnets? What if we continue to increase them? Of course, reaching a certain quantity will lead to a serious decline in returns, but the basic returns are already beyond imagination.
+**Let's return to a slightly more "normal" manual construction scenario:**
 
-Furthermore, I have tuning sheets. With a single 0.1mm thickness tuning sheet of 2c㎡  area based on 20 sampling points, its adjustment precision has already reached 0.05mm. What would the adjustment precision be if the area were reduced 100 times to 2m㎡ ? What would the adjustment precision be if the sampling points were increased to 200?
+Using the side without the artificially added paper ball spacers: Since nano-tape is used, simply pressing down with a flat object reduces the planar error of the circular magnets to less than 0.2mm.
 
-Yes, the above is just the manual limit under harsh conditions. What would happen in a less harsh environment, using better materials for assembly, standard installation methods, and using algorithms to derive the shape, volume, and area of tuning sheets after simulating the magnetic field with a computer?
+**Then, we perform amplified measurement using a mirror and a laser pointer:**
 
-**Why not continue?** Under these materials and extreme environments, the simplest version has already touched my measurement limit of 0.1mm (ruler), so I cannot continue. I have verified the principle and planned the subsequent route.
+Projected onto the center of a crosshair target with 1mm graduations on a wall 5 meters away after reflection (amplified 10x via the optical lever). Since only the lateral (left-right) degree of freedom was constrained, vertical jitter is ignored. The maximum lateral laser fluctuation was approximately 3mm, with an average fluctuation of 2mm. After dividing by the optical lever factor, the maximum physical displacement is 0.03mm, with an average of 0.02mm.
 
----
+**Now, adding 0.5cm² tuning shims:**
+
+First, aim at the crosshair center. Move a certain distance, then add a shim to bring the laser back to the center. Move again and continue adding shims. After repeated adjustments, the final maximum error on the wall was approximately 1mm, with an average error of less than 1mm. After conversion, the actual physical error is approximately 0.01mm. Then, by using a strip of 0.3mm thick 430 stainless steel to cover the entire surface of the circular magnets—creating a "magnetic bridge" to smooth out magnetic field peaks at the gaps—the maximum error became significantly less than 1mm, and the average error far less than 1mm. The converted final precision is far less than 0.01mm.
+
+**Why was the baseline precision improved by more than 10 times?**
+
+Because the paper ball spacers used previously added about 1mm in height, while the magnets are 2mm thick. This meant the magnetic field on one side was 1mm higher than the other. 1mm relative to 2mm is a 50% error, which is far greater than the manufacturing tolerance of the magnets. Therefore, manufacturing errors themselves can actually be filtered out. Furthermore, the random positioning of the paper balls caused each circular magnet to tilt more than 20-30 degrees in different directions. Removing them eliminated the errors caused by angular deflection. Additionally, the magnetic bridge mitigated the magnetic field peaks at the gaps and incidentally smoothed out unevenness caused by magnet manufacturing variations.
+
+**Now, let's proceed with some reasoning:**
+
+However, this was merely the case of two long magnets covering 20 circular magnets, triggering only "Statistical Averaging" and "Length Averaging." If a 20mm wide long magnet covers two rows of 10mm diameter circular magnets, the sampling points increase to 40. This not only enhances statistical averaging but also introduces "Width Averaging." After filtering through a magnetic bridge layer, the tuning precision of a 0.5cm² shim is approximately 0.004mm. With sampling points increasing from 20 to 40, the tuning precision doubles to approximately 0.002mm.
+
+Simply adding one row of circular magnets enhances length averaging and statistical averaging, while introducing width averaging. When width and length averaging combine into "Planar Averaging," the error filtering effect is drastically improved. Moreover, two rows of magnets offer better combinatorial space. If one row has 5mm spacing, and the other row also has 5mm spacing but is shifted forward by 5mm, the long magnet will receive "Three-Point Support" at all times, significantly boosting stability and error filtering. Finally, the increase in quantity increases the tuning precision of the shims. The principle is: the more sampling points there are, the smaller the effect produced by a single tuning shim. Thus, doubling the sampling points doubles the tuning precision.
+
+**Based on the previous experiments and the deductions above:**
+
+Merely manually sticking magnets to two wooden sticks with nano-tape and adding some tuning shims brought the precision to 0.01mm. Now, applying the logic deduced above, the precision can be improved by at least another 10 times, reaching 0.001mm.
+
+You might want to question why I claim 0.001mm is achievable when the shim tuning precision is calculated at 0.002mm. First, the current magnetic field error won't even reach 0.002mm—this is the average of 40 magnets. In reality, a single magnet's 15% error can be tuned down to below 1% using the shims, so attaining 0.001mm is possible.
+
+**Still skeptical?**
+
+Then ignore the deduced results and look only at the experimental data above. Is achieving 0.01mm for $5 not enough?
+
+Of course, it is absolutely fine if you think that is not enough, because this is "Infinite Precision." The experimental content above is merely under a slightly "normal" condition, without yet adopting structural design, magnetic field permutation combinations, modular series/parallel assembly, or other infinite schemes. Although theoretical infinite precision can be achieved simply by increasing the sampling number, my goal is low cost. So, let us continue to explore the subsequent infinite schemes.
 
 ### Conclusion and Outlook:
 
@@ -270,7 +290,7 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 
 ---
 
-# 《无限精度计划:一万元实现一纳米精度》
+# 《无限精度计划:一千元实现一纳米精度》
 
 大家好我是来自中国的曾皓，我进行开源仅仅只是因为申请专利与编写论文比发现一条新道路更加困难。
 
@@ -281,8 +301,6 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 不知道人们会怎样钻空子绕过那些条例，但即使你钻空子，你的专利、论文等其他载体也必须在显眼位置引用这篇文章的链接，并且标注我的名字，然而即使你这样做了，我也需要拥有随时可以撤回你发布的涉及这篇文章以及其延伸内容的权利，只要你基于、延伸、引用这篇文章就代表你同意整篇文章的全部条款以及权力解释。
 
 现在让我们开始
-
-对于质疑:假设原理举证:假设网上有一个全世界最快最稳的轨道列车验证了其刚性与稳定性可行性；假设芯片是玻璃造的，所以玻璃验证了其控制与精度可行性；假设黑白照相机的人体黑白照片好像验证了其磁场调整方法可行性；此原理假设仅为个人猜想，阅读者自行网络搜索验证与本人无关。
 
 然后对于专家:
 
@@ -362,15 +380,29 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 第4根曲线表明了:去除调谐片之后，精度还原为第1根曲线；每次基座之间的随机距离与摆放并不影响整体结果，只要在左右两边磁场的一定斥力之下，运动部件就会自动回归中心，并且前进方向由左右两边磁场组成的虚拟中心线决定。
 
-这是手工极限吗，为什么不继续？
+让我们回到正常一点点的手工情况:
 
-这不是极限，这个实验2个长方形磁铁只覆盖了约20个圆形磁铁的磁场，那么使用4个长方形磁铁覆盖40个圆形磁铁呢？再继续增加呢？当然到达一定数量导致收益严重下降，但基本收益已经超出想象。
+使用没有人为添加纸团垫片的那一面，由于使用的是纳米软胶，仅仅使用平整的物体压平之后，就使得圆形磁铁的平面误差小于0.2mm。
 
-但是我还有调谐片，单个0.1mm厚度面积2c㎡的调谐片在20个采样点的基础上，它的调整精度就已经达到0.05mm，那么缩小100倍面积使用2m㎡调谐片它的调整精度是多少？将采样点提升至200它的调整精度会是多少？
+然后使用镜子加激光笔放大测量:
 
-是的，上面只是恶劣情况下的手工极限而已，在一个不那么恶劣的环境，使用较好的材料组装，使用标准的方式安装，在使用计算机来模拟磁场之后使用算法得出调谐片形状、体积、面积来进行调节，那么会发生什么？
+经过镜子折射之后投射到5米的墙壁上的带有1mm刻度的十字标靶中心（经过光学杠杆10倍放大），因为只限制了左右自由度所以忽略上下抖动，激光左右跳动最大距离约等于3mm，平均跳动为2mm，除以光学杠杆之后，最大距离0.03mm，平均跳动0.02mm。
 
-为什么不继续？在这种材料与极限环境之下使用最简陋的版本就已经触碰我的测量极限0.1mm（直尺），所以无法继续，并且我已经验证了原理并规划好了后续路线。
+现在添加0.5c㎡调谐片，首先瞄准十字中心，然后移动一段距离后添加调谐片使激光回归中心，再移动一段距离继续添加，经过反复多次调整，最后最大误差约等于1mm与平均误差小于1mm，经经过换算之后实际结果约为0.01mm，然后使用一片长条形0.3mm厚度430不锈钢覆盖全部圆形磁铁表面搭建磁桥以平滑间隙磁场突峰之后，最大误差明显小于1mm，平均误差远远小于1mm，换算后最终精度为远小于0.01mm。
+
+为什么还是将基准精度提高了10倍以上，因为纸团垫片本身增高了约1mm，而磁铁厚度2mm，等于一边的磁场比另外一边高1mm，1mm对于2mm是50%误差，远远大于磁铁的制造误差，所以其实制造误差本身就是可以被过滤的，而且由于纸团垫片的位置是随机的导致了每个圆形磁铁朝向不同方向偏转了二三十度以上，去掉之后因为角度偏转带来的误差也消失了，再加上磁桥缓解间隙过度带来的磁场突峰并且顺便平滑了一些磁铁制造误差带来的凹凸。
+
+现在让我们进行推理:
+
+然而这仅仅是两个长磁铁覆盖20个圆形磁铁的情况，只触发了统计平均与长度平均，那么只要宽度20mm的长磁铁覆盖两排直径10mm的圆形磁铁，采样点就会增加到40个，不仅增强了统计平均而且引入了宽度平均，经过一层磁桥的过滤之后0.5c㎡调节片的调节精度约等于0.004mm，采样点从20增加为40之后，调节精度增加一倍约为0.002mm，单单这样增加一排圆形磁铁，就增强了长度平均与统计平均，并且引入了宽度平均，当宽度平均与长度平均混合之后变成平面平均就大幅提升了误差过滤效果，然而两排磁铁有了更好的组合空间，一排磁铁间隔5毫米，另一排磁铁同样间隔5mm但是整体向前移动5毫米，这样长条磁铁就能随时受到三点支撑大幅提升稳定并过滤误差，最后数量的增加使得调节片的调节精度增加，原理是采样点越多调节片产生的调节效果就越小，所以采样点增加一倍，调节精度增加一倍。
+
+那么根据之前实验以及上面的推断，仅仅只是手工将磁铁用纳米胶带粘在两根木棍上并添加一些调节片，就让进度来到了0.01mm，现在加上上面的推断逻辑至少还能让精度提升10倍，也就是达到0.001mm。
+
+你可能想质疑为什么调节片的调节精度是0.002mm我却说能达到0.001mm，首先目前磁场的误差根本不会来到0.002mm，这是40个磁铁平均出来的，实际上单个磁铁15%的误差至少可以通过调节片调节到1%以下，所以说可以达到0.001mm。
+
+还是觉得质疑，那就别管推理结果，只使用上面的实验数据，5美元做到0.01mm难道还觉得不够吗。
+
+当然觉得不够也肯定是没有关系的，因为这是无限精度，上面的实验内容也只是在正常一点点的情况下，并且没有采用结构设计、磁场排列组合设计、模块化串并联拼装等无限方案之前的结果，虽然仅通过增加采样数也可以达到理论上的无限精度，但我的目的是低成本，所以让我们接下来继续探讨后续的无限方案。
 
 结论与展望:
 
