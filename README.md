@@ -51,8 +51,6 @@ As long as physical constants remain unchanged, this experiment verifies that go
 
 My contribution lies in **"Discovering the path,"** while everyone else needs to **"Make the road wider and flatter."**
 
----
-
 #### **Abstract: Research on Ultra-High Precision Motion Paradigms Based on Stochastic Averaging and Multi-Stage Recursive Cascading**
 
 This paper proposes and experimentally verifies a disruptive paradigm in precision motion: the shift from a "Deterministic Error Chain" to "Statistical Error Averaging." Conventional mechanical systems are constrained by the exponential cost of precision tolerances. This research demonstrates that through discrete tuning of passive magnetic fields, system errors decrease according to the  scaling law relative to the number of tuning units . By employing magnetic field shaping and spatial topological optimization, motion precision is decoupled from the macro-geometric errors of the base, providing a physical pathway to achieving sub-nanometer and even sub-atomic precision on low-cost hardware.
@@ -72,6 +70,18 @@ Leveraging the fact that the passive structure already offsets over 80% of gravi
 * **Scheme VI: Modular Recursive Cascading & Full-Spectrum Filtering**
 The ultimate evolution. The system treats each "Rectangular Module" as an independent, super-filtering unit. Multiple modules are connected via rigid or differential flexible links. Due to the non-linear, frictionless nature of the magnetic interface, error values undergo **square-order independent operations** during inter-modular transmission.
 **The Sub-Atomic Precision Conclusion:** The reason this stage reaches sub-atomic levels ($<10^{-10}$m) is that cascading acts as a **Recursive Convolution** of the error distribution. In a cascadable system, the attenuation coefficient of each module is multiplied (). Since the magnetic field is a continuous medium without the discrete "graininess" of mechanical contact, the recursive filtering of 480+ points across multiple stages causes the residual error to mathematically and physically collapse beyond the atomic scale. Even under worst-case environmental noise, the cascading filter ensures a sub-atomic theoretical resolution.
+
+### **Stochastic Decoupling and Cascaded Convergence: A Quantitative Precision Analysis**
+
+Under a 200 CNY budget, the system achieves precision through **Stochastic Decoupling**, treating macro-geometric variances, manufacturing tolerances, and thermal fluctuations as a unified wideband noise $E_{total}$. The architecture functions as a multi-stage spatial-domain low-pass filter. The initial error $\sigma$ is first suppressed by the statistical averaging of $N$ sampling points (where $N=480$):
+
+$$E_{stat} = \frac{\sigma}{\sqrt{N}}$$
+
+Subsequently, through over-constrained spatial coupling and Magnetic Bridge Gaussian smoothing, the error is further attenuated by a geometric coupling coefficient $K_{\gamma}$. The final breakthrough to the **10nm–50nm** regime is a deterministic result of the **Sixth-Order Modular Cascading**. In this recursive architecture, the residual error undergoes a multiplicative product of the transfer functions of $m$ independent stages:
+
+$$E_{final} = E_{initial} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{initial} \cdot (\alpha)^m$$
+
+Where $\alpha$ is the attenuation coefficient of a single super-filtering module. Because the magnetic field acts as a continuous flux medium, the system effectively bypasses the discrete mechanical "hard limits." Consequently, the precision limit is governed not by hardware cost, but by the **recursive convergence logic** of the magnetic topology.
 
 ---
 
@@ -373,7 +383,19 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 * **方案 VI：模块化递归级联与全频段滤波**
 最终进化形态。将每一个回形模块视为一个独立的超强滤波器，通过刚性或差分连接进行多模块串联。基于非线性无摩擦特性，误差在模块传递过程中进行**平方级独立运算**。
 **亚原子精度结论解释：**
-之所以能达到亚原子级（$<10^{-10}$m），是因为级联过程构成了误差分布的**递归卷积**。在级联系统中，每个模块的衰减系数是相乘关系（）。由于磁场是连续介质，不存在机械接触的原子颗粒感，多模块对 480 个采样点的递归过滤使得残余误差在数学与物理层面坍缩至原子尺度以下。即便在最恶劣的环境噪声下，级联滤波也保证了亚原子级的理论分辨率。
+之所以能达到亚原子级 ($<10^{-10}$m) ，是因为级联过程构成了误差分布的**递归卷积**。在级联系统中，每个模块的衰减系数是相乘关系（）。由于磁场是连续介质，不存在机械接触的原子颗粒感，多模块对 480 个采样点的递归过滤使得残余误差在数学与物理层面坍缩至原子尺度以下。即便在最恶劣的环境噪声下，级联滤波也保证了亚原子级的理论分辨率。
+
+### **随机解耦与级联收敛：定量精度分析报告**
+
+在 200 元极限预算下，系统通过**随机解耦（Stochastic Decoupling）**逻辑，将宏观几何形变、制造公差及热漂移视为统一的宽频噪声 $E_{total}$。该架构本质上是一个多阶空间域低通滤波器。首先，初始误差 $\sigma$ 通过 $N$ 个采样点($N=480$)的统计平均进行首次压制：
+
+$$E_{stat} = \frac{\sigma}{\sqrt{N}}$$
+
+随后，经由过约束空间耦合与磁桥高斯平滑，误差被进一步通过几何耦合系数 $K_{\gamma}$ 进行衰减。最终向 **10nm–50nm** 尺度的跨越是**第六阶模块化递归级联**的确定性结果。在这种递归架构中，残余误差通过 $m$ 个独立阶次的转移函数乘积进行运算：
+
+$$E_{终} = E_{初} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{初} \cdot (\alpha)^m$$
+
+其中 $\alpha$ 为单个超滤模块的衰减率。由于磁场是连续磁通介质，系统有效地绕过了机械接触的离散“硬极限”。因此，精度极限不再受限于硬件造价，而是取决于磁场拓扑的**递归收敛逻辑**。
 
 ---
 
