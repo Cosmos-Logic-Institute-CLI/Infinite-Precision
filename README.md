@@ -1,22 +1,22 @@
-# Open Source Declaration
+## Open Source Declaration
 [Read in English](#infinite-precision) | [跳转到中文](#开源声明)
 
 **This project is licensed under [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).**
 
 **Disclaimer and Communication Statement:**
-Because I do not speak English, the article is translated by AI, and AI participated in the entire content writing process. If any patented terms or professional terms are cited due to AI errors or translation inaccuracies, please negotiate with the respective AI companies. You may leave a message on this website to notify me of necessary changes. However, as I do not speak English, I cannot guarantee a correct understanding of the intent or accurate modification of the article. This is my first time actively using this website to publish content; previously, I only visited in an unregistered state and am unfamiliar with the website's functions. My average visit frequency to this website is once a year, so I will likely address the above errors within one year, though delays may occur due to network connection issues or other personal reasons. I suggest that if any infringement occurs due to the above reasons, the infringed party should immediately modify the infringing paragraph on this website to a non-infringing version and leave a message. Subsequent actions will be based on this message, and readers may refer to this corrected baseline as a standard.
+*Because I do not speak English, the article is translated by AI, and AI participated in the entire content writing process. If any patented terms or professional terms are cited due to AI errors or translation inaccuracies, please negotiate with the respective AI companies. You may leave a message on this website to notify me of necessary changes. However, as I do not speak English, I cannot guarantee a correct understanding of the intent or accurate modification of the article. This is my first time actively using this website to publish content; previously, I only visited in an unregistered state and am unfamiliar with the website's functions. My average visit frequency to this website is once a year, so I will likely address the above errors within one year, though delays may occur due to network connection issues or other personal reasons. I suggest that if any infringement occurs due to the above reasons, the infringed party should immediately modify the infringing paragraph on this website to a non-infringing version and leave a message. Subsequent actions will be based on this message, and readers may refer to this corrected baseline as a standard.*
 
 ---
 
-# "Infinite Precision Project: Achieving 1nm Precision for 1000 Yuan"
+## "Infinite Precision Project: Achieving 1nm Precision for 1000 Yuan"
 
-Hello everyone, I am Zeng Hao from China. I am open-sourcing this project simply because applying for patents and writing papers is more difficult than discovering a new path.
+*Hello everyone, I am Zeng Hao from China. I am open-sourcing this project simply because applying for patents and writing papers is more difficult than discovering a new path.*
 
-This article and its extended content are published solely on the principles of world peace, human equality, and common prosperity. It shall not be used for any terrorist activities, military purposes, or any technology that harms the world, nations, individuals, the environment, animals, etc., or results in such consequences. The article and its extended content must not be used for any direct or indirect commercial activities. Corporations are prohibited from using it, and I reserve the right to invalidate any related patents and "fences" built based on this article.
+*This article and its extended content are published solely on the principles of world peace, human equality, and common prosperity. It shall not be used for any terrorist activities, military purposes, or any technology that harms the world, nations, individuals, the environment, animals, etc., or results in such consequences. The article and its extended content must not be used for any direct or indirect commercial activities. Corporations are prohibited from using it, and I reserve the right to invalidate any related patents and "fences" built based on this article.*
 
-Before sending me a lawyer's letter or initiating legal action, please first incorporate the involved physical constants, universal laws, and professional terms into corporate or personal ownership, and clearly mark that others are not allowed to use them. Furthermore, provide evidence that is globally recognized and accepted by all countries and personnel using this article and its extended technology.
+*Before sending me a lawyer's letter or initiating legal action, please first incorporate the involved physical constants, universal laws, and professional terms into corporate or personal ownership, and clearly mark that others are not allowed to use them. Furthermore, provide evidence that is globally recognized and accepted by all countries and personnel using this article and its extended technology.*
 
-I do not know how people might exploit loopholes to bypass these regulations, but even if you do, your patents, papers, and other carriers must prominently cite the link to this article and include my name. However, even if you do so, I reserve the right to withdraw your publication involving this article and its extended content at any time. By basing your work on, extending, or citing this article, it means you agree to all the terms and interpretations of rights in this entire article.
+*I do not know how people might exploit loopholes to bypass these regulations, but even if you do, your patents, papers, and other carriers must prominently cite the link to this article and include my name. However, even if you do so, I reserve the right to withdraw your publication involving this article and its extended content at any time. By basing your work on, extending, or citing this article, it means you agree to all the terms and interpretations of rights in this entire article.*
 
 ### **About This Project: Paradigm Shift & Magnetic Logic**
 
@@ -38,7 +38,7 @@ Magnetic stiffness is **adjustable, non-linear, and frictionless**. We must perc
 * **Precision Mechanical Engineering:** Realization of motion precision is completely detached from traditional Abbe error chains and rigidity constraint principles. "We propose a new paradigm of 'mechanical base error isolation,' decoupling guidance precision from the macro-morphology of the base, significantly reducing the strict requirements for basic mechanical processing."
 * **Materials Science:** Precise utilization of magnetic permeability, thickness, and shape of metal sheets as tuning units. "We developed a method using soft magnetic material microstructure units as field-tuning operators to achieve precision shaping of the magnetic field distribution."
 
-Finally, if you still have doubts, please spend a few dozen yuan to replicate the experimental content and then use the experimental results to counter. "Practice is the sole criterion for testing truth."
+*Finally, if you still have doubts, please spend a few dozen yuan to replicate the experimental content and then use the experimental results to counter. "Practice is the sole criterion for testing truth."*
 
 To simplify understanding for the general public: Please imagine the base magnetic field as the water surface, the moving part as a boat, the unit error size as the size of the water ripples, the number of units covered by the moving part as the size of the boat, and the tuning body as a board that can press down and divert the water.
 
@@ -50,7 +50,7 @@ As long as physical constants remain unchanged, this experiment verifies that go
 
 My contribution lies in **"Discovering the path,"** while everyone else needs to **"Make the road wider and flatter."**
 
-### **Abstract: Research on Ultra-High Precision Motion Paradigms Based on Stochastic Averaging and Multi-Stage Recursive Cascading**
+**Abstract: Research on Ultra-High Precision Motion Paradigms Based on Stochastic Averaging and Multi-Stage Recursive Cascading**
 
 This paper proposes and experimentally verifies a disruptive paradigm in precision motion: the shift from a "Deterministic Error Chain" to "Statistical Error Averaging." Conventional mechanical systems are constrained by the exponential cost of precision tolerances. This research demonstrates that through discrete tuning of passive magnetic fields, system errors decrease according to the $1/\sqrt{N}$ scaling law relative to the number of tuning units $N$. By employing magnetic field shaping and spatial topological optimization, motion precision is decoupled from the macro-geometric errors of the base, providing a physical pathway to achieving sub-nanometer and even sub-atomic precision on low-cost hardware.
 
@@ -82,33 +82,33 @@ $$E_{final} = E_{initial} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{initial} 
 
 Where $\alpha$ is the attenuation coefficient of a single super-filtering module. Because the magnetic field acts as a continuous flux medium, the system effectively bypasses the discrete mechanical "hard limits." Consequently, the precision limit is governed not by hardware cost, but by the **recursive convergence logic** of the magnetic topology.
 
-## **Technical FAQ: Paradigm Shift and Engineering Logic**
+### **Technical FAQ: Paradigm Shift and Engineering Logic**
 
-### **1. Addressing Magnet Manufacturing Variance**
+#### **1. Addressing Magnet Manufacturing Variance**
 
 * **The Doubt:** How can low-cost magnets with high manufacturing tolerances (>10%) ever achieve nanometer precision?
 * **The Logic:** In our stress tests using a primitive prototype, we intentionally used magnets with a 1mm height variance (a 50% difference relative to the 2mm base) and angular deviations exceeding 30°. Even under these "catastrophic" conditions, the 20-point sampling array successfully filtered the noise. Since standard manufacturing errors are far below 50%, they are treated as "negligible stochastic noise." Furthermore, **Multi-layer Aperture Shimming** creates a "Gaussian Blur" effect, physically smoothing the field before it even enters the statistical averaging stage.
 
-### **2. Environmental Sensitivity at High Precision**
+#### **2. Environmental Sensitivity at High Precision**
 
 * **The Doubt:** Won't thermal expansion and ambient vibration destroy nanometer-level stability?
 * **The Logic:** This is a matter of relative Scale and SNR. Our system is designed to suppress a macro-error of **3mm**. If the logic can neutralize a 3,000,000-nanometer physical deviation, then ambient thermal drifts or vibrations—typically in the micrometer range—are "buried" within the suppression bandwidth. We do not fight the environment; we make the system's baseline so robust that the environment becomes statistically invisible.
 
-### **3. Parallelism and Global Deformation**
+#### **3. Parallelism and Global Deformation**
 
 * **The Doubt:** What happens if the entire base warps or the guide loses parallelism?
 * **The Logic:** Local deformations are filtered by the 480-point array. Global deformations (macro-warping) result in a **Virtual Centerline Offset**. This does not require expensive active control; it can be corrected by introducing a few electromagnetic coils with simple trimming resistors. By turning a knob, you realign the virtual magnetic axis—transforming a mechanical alignment problem into a simple electrical tuning task.
 
-### **4. Magnetic Field Ripples and Peaks**
+#### **4. Magnetic Field Ripples and Peaks**
 
 * **The Doubt:** The gaps between discrete magnets must create periodic "force peaks" (ripples). How is motion smooth?
 * **The Logic:** This is resolved through **Halbach Array Topologies**. By rotating the magnetic vectors, the flux is concentrated into a continuous "Hyperplane." When combined with long-strip geometries that overlap circular arrays, the "gaps" are physically bridged. The hardware is merely the manifestation; the resulting magnetic soul is a continuous, frictionless medium.
 
-### **5. Why don't industry giants (ASML/MRI) use this "Simple" method?**
+#### **5. Why don't industry giants (ASML/MRI) use this "Simple" method?**
 
 * **The Logic:** Traditional giants prioritize **Energy Efficiency** and **Dynamic Acceleration**. MRI requires extreme field strength (Tesla-level), while Lithography requires extreme G-force. These goals require expensive active superconductors. Our project prioritizes **Precision-to-Cost Ratio**, achieving 100% of the required precision at 1% of the cost for high-precision, quasi-static motion.
 
-### **6. Breaking the "Master Tool" Limitation**
+#### **6. Breaking the "Master Tool" Limitation**
 
 * **The Doubt:** Traditional engineering states that a machine tool cannot produce a workpiece more precise than itself. If the parts are made with low-precision tools, how can the output be high-precision?
 * **The Logic:** This project breaks the **Inheritance of Error**. In traditional machining, the tool's surface is "copied" onto the workpiece. In our system, the low-precision hardware is merely a **Stochastic Seed**. The final precision is an **Emergent Property** of the field logic. Just as a rough, rusted pipe can carry a perfectly smooth stream of water, the "fluid-like" continuity of the magnetic field ignores the micro-roughness of its carrier. We are not "copying" the machine tool; we are using **Recursive Cascading** to create a new, independent coordinate system whose resolution is defined by the mathematical convergence of the field, not the physical grit of the machine tool.
@@ -121,7 +121,7 @@ Where $\alpha$ is the attenuation coefficient of a single super-filtering module
 * **Total Cost:** 35 CNY (5 USD).
 * **Approximate Installation Method:** Apply nano-tape to the wooden sticks, then place magnets. Round magnets are spaced at about 5mm. Separate the rectangular magnets slightly and bond them with toothpicks and glue, then press them vertically onto the nano-tape with only one side peeled, or peel the other side and attach a plastic sheet. Tie cotton string to the top, and use the repulsive force of the two wooden sticks to squeeze the rectangular magnets in the middle. (Note: During installation, ensure both sticks are repellent to the rectangular magnets.)
 
-This experiment verifies whether the system itself can continue to be realized under many almost unforgivable errors and validates its extraordinary robustness. The experimental conditions are as follows:
+#### This experiment verifies whether the system itself can continue to be realized under many almost unforgivable errors and validates its extraordinary robustness. The experimental conditions are as follows:
 
 * **Wooden sticks (chopsticks) chosen as the installation base:** Surface roughness is that of normal wooden sticks; the stick itself is larger at one end and smaller at the other, with about 2mm plane error; it is in a bent state, with a circular arc shape protruding downward at the center point with a maximum of about 3mm from end to end; the other stick is similar, the two sticks themselves are not parallel or aligned, and the spacing between them is large-small-large; the sticks themselves are not fixed, or only a small area of 1mm thickness nano-tape is used to fix them on a cup to prevent collapse.
 * **Units used are ordinary NdFeB magnets purchased from the market:** Their manufacturing error is greater than 15%; 10*2mm specification round magnets are installed randomly at a distance of about 0~3mm from the center line of the wooden stick via 1mm thickness nano-tape with random force. The nano-tape itself is soft and deforms under force, leading to deformation errors due to manual installation; randomly sized paper balls are manually crumpled as shims to raise one side of the round magnets, creating random height and parallel differences in random angles and directions.
@@ -130,7 +130,7 @@ This experiment verifies whether the system itself can continue to be realized u
 * **Pencil lead installed near the center of the moving part to draw curves:** The pencil lead is directly inserted into the hole, is not completely fixed and will swing slightly, and the length protruding from the bottom is manually controlled.
 * **0.1mm thickness 430 stainless steel sheet used as the primary adjustment method:** Manually cut, overall shape is approximately a 1:2 rectangle, surface area is about 2c㎡ ; adjustment method: place in high magnetic field areas based on visual observation and feeling.
 
-**So, under such conditions, what can we get? Below are the results:**
+#### So, under such conditions, what can we get? Below are the results:
 
 https://github.com/user-attachments/assets/f9902ce0-2b31-4874-ad47-e9b70bb8b7ef
 
@@ -140,102 +140,93 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 ![IMG_20260112_143056](https://github.com/user-attachments/assets/e022d81e-1bd6-4454-a50e-c77e0aa773c3)
 
-According to the results shown in the figures:
-Each curve was repeated about 5 times and perfectly overlapped as observed by the naked eye, so the experimental results are not a single special case.
+#### According to the results shown in the figures:Each curve was repeated about 5 times and perfectly overlapped as observed by the naked eye, so the experimental results are not a single special case.
 
 * **The 1st curve shows:** Increasing the number of units covered by the moving part can achieve high precision on a low-precision basis under harsh conditions; a curve with an average error of about 1mm was drawn on the basis of various comprehensive errors greater than 3mm.
 * **The 2nd curve shows:** Removing the shims and the errors they bring can improve precision. The errors brought by shims are magnetic field height, angle, direction, and parallel errors, and these errors themselves are greater than the magnet manufacturing error of 15%. This not only proves that manufacturing errors can be filtered but also that precision can be improved by manually adjusting these parameters; a curve with an average error of about 0.3mm was drawn after reducing shim errors.
 * **The 3rd curve shows:** Based on the 1st curve, using tuning sheets for magnetic field adjustment can improve precision; using twelve 0.1mm thickness 430 stainless steel thin sheets with a single area of about 2c㎡  adjusted the curve with an average error of about 1mm to an average error of about 0.5mm. One tuning sheet is approximately equal to 0.05mm adjustment precision.
 * **The 4th curve shows:** After removing the tuning sheets, the precision returns to the 1st curve; the random distance and placement between the bases each time does not affect the overall result. As long as there is a certain repulsive force from the magnetic fields on the left and right sides, the moving part will automatically return to the center, and the forward direction is determined by the virtual centerline composed of the magnetic fields on both sides.
 
-**Let's return to a slightly more "normal" manual construction scenario:**
+### Let's return to a slightly more "normal" manual construction scenario:
 
 Using the side without the artificially added paper ball spacers: Since nano-tape is used, simply pressing down with a flat object reduces the planar error of the circular magnets to less than 0.2mm.
 
-**Then, we perform amplified measurement using a mirror and a laser pointer:**
+### Then, we perform amplified measurement using a mirror and a laser pointer:
 
 Projected onto the center of a crosshair target with 1mm graduations on a wall 5 meters away after reflection (amplified 10x via the optical lever). Since only the lateral (left-right) degree of freedom was constrained, vertical jitter is ignored. The maximum lateral laser fluctuation was approximately 3mm, with an average fluctuation of 2mm. After dividing by the optical lever factor, the maximum physical displacement is 0.03mm, with an average of 0.02mm.
 
-**Now, adding 0.5cm² tuning shims:**
+### Now, adding 0.5cm² tuning shims:
 
 First, aim at the crosshair center. Move a certain distance, then add a shim to bring the laser back to the center. Move again and continue adding shims. After repeated adjustments, the final maximum error on the wall was approximately 1mm, with an average error of less than 1mm. After conversion, the actual physical error is approximately 0.01mm. Then, by using a strip of 0.3mm thick 430 stainless steel to cover the entire surface of the circular magnets—creating a "magnetic bridge" to smooth out magnetic field peaks at the gaps—the maximum error became significantly less than 1mm, and the average error far less than 1mm. The converted final precision is far less than 0.01mm.
 
-**Why was the baseline precision improved by more than 10 times?**
+### Why was the baseline precision improved by more than 10 times?
 
 Because the paper ball spacers used previously added about 1mm in height, while the magnets are 2mm thick. This meant the magnetic field on one side was 1mm higher than the other. 1mm relative to 2mm is a 50% error, which is far greater than the manufacturing tolerance of the magnets. Therefore, manufacturing errors themselves can actually be filtered out. Furthermore, the random positioning of the paper balls caused each circular magnet to tilt more than 20-30 degrees in different directions. Removing them eliminated the errors caused by angular deflection. Additionally, the magnetic bridge mitigated the magnetic field peaks at the gaps and incidentally smoothed out unevenness caused by magnet manufacturing variations.
 
-**Now, let's proceed with some reasoning:**
+### Now, let's proceed with some reasoning:
 
 However, this was merely the case of two long magnets covering 20 circular magnets, triggering only "Statistical Averaging" and "Length Averaging." If a 20mm wide long magnet covers two rows of 10mm diameter circular magnets, the sampling points increase to 40. This not only enhances statistical averaging but also introduces "Width Averaging." After filtering through a magnetic bridge layer, the tuning precision of a 0.5cm² shim is approximately 0.004mm. With sampling points increasing from 20 to 40, the tuning precision doubles to approximately 0.002mm.
 
 Simply adding one row of circular magnets enhances length averaging and statistical averaging, while introducing width averaging. When width and length averaging combine into "Planar Averaging," the error filtering effect is drastically improved. Moreover, two rows of magnets offer better combinatorial space. If one row has 5mm spacing, and the other row also has 5mm spacing but is shifted forward by 5mm, the long magnet will receive "Three-Point Support" at all times, significantly boosting stability and error filtering. Finally, the increase in quantity increases the tuning precision of the shims. The principle is: the more sampling points there are, the smaller the effect produced by a single tuning shim. Thus, doubling the sampling points doubles the tuning precision.
 
-**Based on the previous experiments and the deductions above:**
+### Based on the previous experiments and the deductions above:
 
 Merely manually sticking magnets to two wooden sticks with nano-tape and adding some tuning shims brought the precision to 0.01mm. Now, applying the logic deduced above, the precision can be improved by at least another 10 times, reaching 0.001mm.
 
-You might want to question why I claim 0.001mm is achievable when the shim tuning precision is calculated at 0.002mm. First, the current magnetic field error won't even reach 0.002mm—this is the average of 40 magnets. In reality, a single magnet's 15% error can be tuned down to below 1% using the shims, so attaining 0.001mm is possible.
+*You might want to question why I claim 0.001mm is achievable when the shim tuning precision is calculated at 0.002mm. First, the current magnetic field error won't even reach 0.002mm—this is the average of 40 magnets. In reality, a single magnet's 15% error can be tuned down to below 1% using the shims, so attaining 0.001mm is possible.*
 
-**Still skeptical?**
+### Still skeptical?
 
 Then ignore the deduced results and look only at the experimental data above. Is achieving 0.01mm for $5 not enough?
 
 Of course, it is absolutely fine if you think that is not enough, because this is "Infinite Precision." The experimental content above is merely under a slightly "normal" condition, without yet adopting structural design, magnetic field permutation combinations, modular series/parallel assembly, or other infinite schemes. Although theoretical infinite precision can be achieved simply by increasing the sampling number, my goal is low cost. So, let us continue to explore the subsequent infinite schemes.
 
-### Conclusion and Outlook:
+*So, how do we move forward on the path ahead? Don't worry, I have already drawn the route directly to the finish line.*
 
-This study provides an experimental foundation for a brand-new precision motion design paradigm. Combining discrete passive field averaging principles with advanced manufacturing is expected to catalyze revolutionary low-cost, high-precision equipment in semiconductor, optical, and extreme space environments.
-
-It breaks the tradition of high-precision processing for low precision. Simply increasing the number of units covered by the moving part can exponentially improve precision. However, the purpose of increasing the quantity is to enhance the length averaging effect. After adopting different structures, averages in directions like up-down, left-right, rotation, and roll—which have the same principle but different directions—bring exponential improvements again. The resulting spatial average is a multiplication operation for the original formula. The precision improvement effect brought by adjusting the magnetic field is itself a calculation factor for the above two methods.
-
-Therefore, with three complementary exponential improvements, the theoretical precision itself is infinite. After the multiplication of three infinite precision methods, it can achieve infinite precision with an unparalleled cost advantage and a convenient method that can be manufactured almost casually.
-
-So, how do we move forward on the path ahead? Don't worry, I have already drawn the route directly to the finish line.
-
-**First, start from the base:**
+### First, start from the base:
 
 * **Simple method:** Sand the wood flat and then polish it, then perform straightness calibration. This improves magnetic field flatness on the reference surface.
 * **Harder:** If you really don't like wood, replace it with granite or some other stone. (How could anyone not love wood? It's made of high-performance low-pass damping filtering carbon fiber material!)
 * **Even harder:** Use plastic or some other metal, but magnetic metals will deform the magnetic field, requiring computer simulation or other means of isolation.
 
-**Then, start from the magnetic source:**
+### Then, start from the magnetic source:
 
 * **Simple method:** Purchase or customize magnets with a manufacturing error of less than 5%, and select magnets with an error of less than 1% from multiple magnets through a matching method. This increases magnetic field flatness from the manufacturing source.
 * **Harder:** After the above methods, use demagnetization methods like pulsing or heating to manually or automatically calibrate local or all magnetic fields to make them flatter.
 * **Even harder:** Optimize from the source of magnetic field manufacturing, or refer to some existing solutions, such as using electromagnets or superconductors, though most of them require algorithms, software, and hardware and are quite expensive before mass production.
 
-**Then, start from the installation method:**
+### Then, start from the installation method:
 
 * **Simple method:** Use hard or soft glue, draw lines on the base after a certain arrangement, and then stick the sources directly onto the base. After the above methods, there is already a relatively flat reference surface, so don't worry about errors; physics and mathematics will forgive you.
 * **Harder:** Choose more suitable connection methods or glues, use tweezers or other means to ensure installation precision after a designed arrangement, and use ordinary shims under the magnetic sources for micro-adjustments to ensure overall parallelism.
 * **Even harder:** Screen for the most suitable connection method, simulate with a computer or find the existing optimal arrangement plan, automate to improve installation precision, and use complex means for installation tuning.
 
-**Then, the moving part:**
+### Then, the moving part:
 
 * **Simple method:** Use plastic sheets or something else to keep the slider stable.
 * **Harder:** Use some kind of passive circuit found online to keep the slider relatively stable in one position.
 * **Even harder:** Directly switch to superconductors, or use precision control and algorithms plus electromagnets or other methods to keep the slider stable.
 
-**Finally, the tuning body:**
+### Finally, the tuning body:
 
 * **Simple:** Purchase pre-cut tuning sheets of 0.5  or your preferred size, then simply measure the magnetic force or infer the area needing adjustment from the results, and place them for adjustment. They can also be permanently fixed with glue or something else. After a series of processes from reference surface to manufacturing to installation, the magnetic field itself is already very flat, and micro-adjustments at this time can make it even flatter.
 * **Harder:** For the 1st layer, it is recommended to use a thickness of 0.2mm or more. Use a custom 36-zone tuning sheet divided by a cross grid, dividing a round magnet into 36 equal square or other shaped open areas. If conditions permit, perform measurements and close off areas with stronger magnetic fields; if not, install directly. The 2nd layer uses a grid tuning sheet with larger diameter orderly or disorderly arranged circular or square holes. The 3rd layer uses a grid tuning sheet with smaller diameter orderly or disorderly arranged circular or square holes. It is recommended that the thickness decreases layer by layer.
 * **Even harder:** Use custom tuning sheets after computer simulation, or directly use a tuning body, for example, placing it to perfectly adjust the magnetic field into a hyperplane, or simply increase the number of layers to break the magnetic field into a "fluid" layer by layer.
 
-Is that all? No, the most exciting part has just begun!
+*Is that all? No, the most exciting part has just begun!*
 
-**Adjustable part structures:**
+### Adjustable part structures:
 
 * **A classic structure:** Assume the base uses a rectangular wood with a width-to-height ratio of 2:1. Then use a shorter and larger rectangular wood with a rectangular hole dug through the middle so it can fit over the four sides of the base with a gap of about 4mm to act as a slider. On the upper surface of the base, place two rows of magnets symmetrically on the left and right; same for the lower surface. Place a row of magnets on the centerline of the left surface; same for the right surface. Then dig out gaps in the slider or leave only a hollow structure for support to place rectangular magnets. A total of 6 rows of rectangular magnets correspond to six rows of round magnets.
 * **Pseudo-pinning effect:** This structural characteristic, after adding physical support or software control, limits the slider's degrees of freedom in up-down, left-right, rotation, and roll, which is extremely similar to the pinning effect of superconductors. However, due to another effect of superconductors, it can move back and forth on the magnetic field surface, thus effectively achieving basically the same function.
 
-**Assembled part modules:**
+### Assembled part modules:
 
 * **Precision enhancement assembly:** Treat the above classic structure as a module. Place two modules in parallel and connect their respective sliders to continue increasing the quantity to improve precision. Due to previous principle verification, the precision of two modules is higher than that of one, and the number can continue to be increased until a certain limit of returns is reached.
 * **Large-range movement assembly:** Connect two modules according to the precision enhancement assembly as the X-axis. Then place the two ends of the base on two other modules perpendicular to these two modules as the Y-axis. Finally, add miniaturized modules on the X-axis as the Z-axis in this way. Due to previous principle verification, this architecture maximizes the use of spatial averaging of all constituent architectures to significantly improve precision performance, making the Z-axis of the center point enter the "zero point" of the entire architecture.
 * **Small-range movement ultra-precision assembly:** Connect modules in a 3x3 dot matrix, using 8 modules to filter errors so that the precision of the middle module achieves a qualitative leap.
 
-**Adjustable part modes:**
+### Adjustable part modes:
 
 * **Full passive:** Use physical support on the slider surface to keep it stable, or connect another module on the left, right, or both sides. The connected module is linked to fixed objects, moving objects, etc. During power transmission, it is somewhat limited by the fixed objects, but since fixed objects only support roll and rotation degrees of freedom, the influence is less than 20%. More than 80% relies on the magnetic field and structural self-stability. Since the module itself is a filter, after being filtered by one module, it can be filtered again at the center module to minimize the impact. This mode itself requires external force to move.
 * **Semi-passive:** Use certain circuit characteristics related to electromagnets to maintain stable levitation of the slider without the need for algorithms. This mode itself is static; control devices can be added to manually adjust the thrust.
@@ -243,19 +234,17 @@ Is that all? No, the most exciting part has just begun!
 * **Full-active:** Use some way to actively increase and control thrust, and use some way to make the slider more stable and improve precision again.
 * **Phase shift:** Fix the slider and let the base act as the moving part.
 
-**Beyond Infinite Statistics, Infinite Tuning, and Infinite Architecture, the true breakthrough has emerged:**
-
-**Infinite Evolution: "The Self-Evolution Path"**
+## Infinite Evolution: "The Self-Evolution Path"
 
 This project is not merely about an increase in precision; it represents the total collapse of manufacturing barriers. Because the system precision (derived from **Field Statistics**) is inherently higher than the base precision (**Mechanical Base**), we can utilize a "Low-Precision Gen-1 Machine" to process "Mid-Precision Gen-2 Components," thereby achieving self-iterative precision. It is an algorithmic logic of **"creating order from chaos"**—building a high-precision civilization starting from nothing.
 
-This is the "Machine Tool Bootstrapping" logic. You don’t need high-precision equipment to start; you only need scrap materials:
+### This is the "Machine Tool Bootstrapping" logic. You don’t need high-precision equipment to start; you only need scrap materials:
 
-1. **Gen-1 (The Seed):** Built with wood and a few magnets. It uses field-averaging to generate a 0.5mm reference.
-2. **Iteration (Self-Replication):** Using the Gen-1 field as a "Magnetic Mold," we press the next generation of longer rails into place using repulsive force. Following the  law, Gen-2 precision jumps to 0.05mm.
-3. **The Loop:** Each generation machines the parts for a more precise successor. Through 3 recursive cycles, the system spontaneously collapses into nanometer-level precision.
+* **Gen-1 (The Seed):** Built with wood and a few magnets. It uses field-averaging to generate a 0.5mm reference.
+* **Iteration (Self-Replication):** Using the Gen-1 field as a "Magnetic Mold," we press the next generation of longer rails into place using repulsive force. Following the  law, Gen-2 precision jumps to 0.05mm.
+* **The Loop:** Each generation machines the parts for a more precise successor. Through 3 recursive cycles, the system spontaneously collapses into nanometer-level precision.
 
-For instant high precision, you can establish a "Magnetic Standard":
+### For instant high precision, you can establish a "Magnetic Standard":
 
 * **The Logic:** Even if individual magnets have 20% error, an array of 1000 magnets on a large plate will have its field fluctuations mathematically flattened by statistics.
 * **The Process:** Apply slow-curing adhesive to the base of the new rail's magnets and bring it close to this "Master Mold." In a non-contact state, the repulsive forces physically push every magnet into a perfect equilibrium position.
@@ -263,17 +252,17 @@ For instant high precision, you can establish a "Magnetic Standard":
 
 ---
 
-# ⚖️ Global Legal & Rights Declaration
+### ⚖️ Global Legal & Rights Declaration
 
 **"The 'Error Acceptance Paradigm' defined in this project may be referred to as Physical Intelligence or Structural Intelligence in different disciplines; it is essentially a low-dimensional utilization of physical laws."**
 
-### 1. Core Principles and Prohibitions
+#### 1. Core Principles and Prohibitions
 
 * This article and its extended content are published solely based on the principles of **world peace, human equality, and common prosperity**. It shall not be used for any terrorist activities, military purposes, or any technology that harms the world, nations, individuals, environment, animals, etc., or results in such consequences.
 * This article and its extended content **shall not be used for any direct or indirect commercial activities. Corporate use is strictly prohibited.**
 * Any act of basing work on, extending, or citing any part of this project constitutes full agreement to all terms and interpretations of rights herein. I (Zeng Hao) reserve the ultimate right of interpretation.
 
-### 2. Maximization of Technical Scope
+#### 2. Maximization of Technical Scope
 
 To prevent any circumvention of this agreement by changing materials, shapes, or media, the technical scope of this project includes but is not limited to:
 
@@ -282,7 +271,7 @@ To prevent any circumvention of this agreement by changing materials, shapes, or
 * **Tuning Operator:** Including all substances with magnetic permeability, diamagnetic, or paramagnetic properties, regardless of thickness, shape, processing technology, or physical state.
 * **Motion Paradigm:** Including all linear, rotational, or multi-axial precision displacements realized using passive field topology, pseudo-pinning effects, and statistical averaging principles.
 
-### 3. Interdisciplinary & Semantic Sealing
+#### 3. Interdisciplinary & Semantic Sealing
 
 The validity of this declaration is not limited to the field of physics and covers the following interdisciplinary areas. It is strictly prohibited to circumvent this agreement by changing terminology, disciplinary classification, or description logic. Equivalent terms in different fields are bound by this declaration:
 
@@ -292,7 +281,7 @@ The validity of this declaration is not limited to the field of physics and cove
 * **Metrology & Statistics:** Spatial Sampling Averaging, Statistical Precision Enhancement, Non-deterministic Manufacturing Compensation.
 * **Emerging Terms:** AI Physicalization, Embodied Intelligent Structures, or any new terms involving the use of discrete passive field spatial averaging/statistical distribution to offset macro-manufacturing errors.
 
-### 4. Anti-Patenting and Academic Restrictions
+#### 4. Anti-Patenting and Academic Restrictions
 
 * **Loss of Novelty Statement:** All principles of this project (statistical averaging, spatial topological isolation, pseudo-pinning, field tuning operators, etc.) enter the global **Public Domain** as **"Prior Art"** upon publication.
 * **Anti-Squatting:** Any individual, institution, or company is strictly prohibited from applying for any patents, utility models, or designs based on any details of this project.
@@ -300,7 +289,7 @@ The validity of this declaration is not limited to the field of physics and cove
 * **Mandatory Citation:** Any academic paper, technical report, or white paper inspired by this project must prominently cite the link to this project and attribute the author (**Zeng Hao**).
 * **Anti-Privatization:** It is strictly forbidden to package the principles of this project as the exclusive research results of individuals or groups. Unattributed use will be treated as malicious plagiarism.
 
-### 5. Counter-Litigation and Revocation
+#### 5. Counter-Litigation and Revocation
 
 * **Counter-Litigation Clause:** Before initiating any legal action against me, the plaintiff must first prove global ownership of the **"Physical Constants," "Laws of the Universe," and "Laws of Statistical Probability"** involved in these processes and provide evidence that such ownership is globally accepted.
 * **Legal Liability:** Any benefits generated by attempting to bypass this declaration shall automatically belong to the cause of global peace.
@@ -340,7 +329,7 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 ---
 ---
 
-# 开源声明
+## 开源声明
 
 **本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享 4.0 国际)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议发布。**
 
@@ -349,7 +338,7 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 
 ---
 
-# 《无限精度计划:一千元实现一纳米精度》
+## 《无限精度计划:一千元实现一纳米精度》
 
 *大家好我是来自中国的曾皓，我进行开源仅仅只是因为申请专利与编写论文比发现一条新道路更加困难。*
 
@@ -359,7 +348,7 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 
 *不知道人们会怎样钻空子绕过那些条例，但即使你钻空子，你的专利、论文等其他载体也必须在显眼位置引用这篇文章的链接，并且标注我的名字，然而即使你这样做了，我也需要拥有随时可以撤回你发布的涉及这篇文章以及其延伸内容的权利，只要你基于、延伸、引用这篇文章就代表你同意整篇文章的全部条款以及权力解释。*
 
-## **关于本项目：范式转移与磁场逻辑**
+### **关于本项目：范式转移与磁场逻辑**
 
 **首先，请抛弃你的传统工程思维。**
 磁场的刚性是**可调整的、非线性的、无摩擦的**。我们需要用正确的目光来看待它：请把它放在与**超导体悬浮、磁浮导轨、气浮导轨**等精密技术相同的高度。
@@ -384,17 +373,17 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 
 *最后，还是需要质疑请花几十元复刻实验内容，然后使用实验结果反击。“实践是检验真理的唯一标准”*
 
-*最后的最后为了降低普通人理解难度，请将基座磁场想象为水面，运动部件想象为船，单元误差大小就是水波纹的大小，运动部件所覆盖单元的数量就是船的大小，调谐体是一块可以将水压下分流的板子。*
+最后的最后为了降低普通人理解难度，请将基座磁场想象为水面，运动部件想象为船，单元误差大小就是水波纹的大小，运动部件所覆盖单元的数量就是船的大小，调谐体是一块可以将水压下分流的板子。
 
 ---
 
 ## 《误差接纳：一种基于被动场计算的高鲁棒性精密运动新范式》
 
-*只要物理常数不变，本实验验证了从0到1，就证明了从1到100在原理上是一条康庄大道，后续的工程障碍是已知物理范畴内的常规挑战，而非原理性的“不可能”。*
+只要物理常数不变，本实验验证了从0到1，就证明了从1到100在原理上是一条康庄大道，后续的工程障碍是已知物理范畴内的常规挑战，而非原理性的“不可能”。
 
-*我的贡献在于 “发现了那条路” ，而大家需要做的是 “把路铺得更宽更平” 。*
+我的贡献在于 “发现了那条路” ，而大家需要做的是 “把路铺得更宽更平” 。
 
-#### **摘要：基于统计平均与多阶递归级联的超高精度运动范式研究**
+### **摘要：基于统计平均与多阶递归级联的超高精度运动范式研究**
 
 本文提出并实验验证了精密运动领域的一种颠覆性范式：从“确定性误差链”转向“统计性误差平均”。传统机械系统受限于精密公差的指数级成本增长，而本研究证明，通过被动磁场的离散调谐，系统误差随单元数量 $N$ 的增加遵循 $1/\sqrt{N}$ 的标度律递减。通过磁场整形与空间拓扑优化，运动精度得以与基座的宏观几何误差彻底解耦，为在低成本硬件上实现亚纳米乃至亚原子级精度提供了物理路径。
 
@@ -468,7 +457,7 @@ $$E_{终} = E_{初} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{初} \cdot (\al
 
 * **大致安装方式:** 木棍上贴上纳米胶，然后放上磁铁，圆形磁铁间距约5mm，将长方形磁铁中间隔开一些用牙签与胶水粘接，然后垂直按入只撕开一边的纳米胶上，或者说撕开另一边贴上塑料片，顶端粘上棉绳，然后两根木棍用斥力将长方形磁铁挤在中间。（注意，安装过程中要确定两根棍子都与长方形磁铁是相斥的）
 
-**本次实验验证了在许多几乎不可饶恕的错误之下，系统本身能否继续实现，并验证了其非凡的鲁棒性，实验条件为以下:**
+#### 本次实验验证了在许多几乎不可饶恕的错误之下，系统本身能否继续实现，并验证了其非凡的鲁棒性，实验条件为以下:
 
 * **选用两根木棍（筷子）作为安装基座:** 表面粗糙度为正常木棍；木棍本身一头大一头小，约2mm平面误差；其本身为弯曲状态，中心点向下凹出从头到尾其最大点约3mm的圆弧形；另一根木棍情况相似，两根木棍本身不平行对齐，并且之间间距为大-小-大；木棍本身不固定，或者仅小面积使用1mm厚度纳米胶带固定在杯子上防止倒塌；
 
@@ -482,7 +471,7 @@ $$E_{终} = E_{初} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{初} \cdot (\al
 
 * **使用0.1mm厚度430不锈钢片作为初级调整方式:** 手工裁剪，总体形状约为1:2长方形，表面积约为2c㎡；调整方式为，凭肉眼观察与感觉往磁场高的区域放置；
 
-### 那么，在这样的条件下我们能得到什么？以下是图片与结果:
+#### 那么，在这样的条件下我们能得到什么？以下是图片与结果:
 
 https://github.com/user-attachments/assets/f9902ce0-2b31-4874-ad47-e9b70bb8b7ef
 
@@ -492,7 +481,7 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 ![IMG_20260112_143056](https://github.com/user-attachments/assets/e022d81e-1bd6-4454-a50e-c77e0aa773c3)
 
-**每根曲线绘制都重复了约5次，通过肉眼观察是完美重叠，所以实验结果并非单次特例。** 
+#### 根据图中结果所示:每根曲线绘制都重复了约5次，通过肉眼观察是完美重叠，所以实验结果并非单次特例。
 
 * **第1根曲线表明了:** 增加运动部件所覆盖单元数量可以在恶劣条件下的低精度基础上实现高精度；在大于3mm的各种综合误差基础上画出了平均误差约1mm的曲线。
 
@@ -525,6 +514,8 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 *还是觉得质疑，那就别管推理结果，只使用上面的实验数据，5美元做到0.01mm难道还觉得不够吗。*
 
 当然觉得不够也肯定是没有关系的，因为这是无限精度，上面的实验内容也只是在正常一点点的情况下，并且没有采用结构设计、磁场排列组合设计、模块化串并联拼装等无限方案之前的结果，虽然仅通过增加采样数也可以达到理论上的无限精度，但我的目的是低成本，所以让我们接下来继续探讨后续的无限方案。
+
+*那么，我们该如何继续前进呢？别担心，我已经规划好了直达终点的路线。*
 
 ### 首先从基座开始:
 
@@ -616,17 +607,17 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 ---
 
-# ⚖️ 核心权利与全球法律准则
+### ⚖️ 核心权利与全球法律准则
 
 **“本项目定义的‘误差接纳范式’，在不同学科下可能被称为物理智能化或结构智能化，本质都是对物理规律的降维利用。”**
 
-### 1. 核心准则与禁令
+#### 1. 核心准则与禁令
 
 * 本文章及延伸内容仅以**世界和平、人人平等、共同富裕**为原则发布，不得用于任何恐怖活动、军事等危害世界、国家、个人、环境、动物等以及会造成这些结果的技术。
 * 本文章及延伸内容**不得用于任何直接以及间接商业活动，公司禁止使用。**
 * 只要你基于、延伸、引用这篇文章，即代表你同意整篇文章的全部条款以及权利解释。本人（曾皓）拥有最高解释权。
 
-### 2. 权利覆盖范围之极大化定义
+#### 2. 权利覆盖范围之极大化定义
 
 为了彻底封死任何通过改变材料、形状或介质来规避本协议的行为，特此声明本项目涉及的技术范畴包含但不限于：
 
@@ -635,7 +626,7 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 * **调谐单元 (Tuning Operator):** 包含一切具有导磁、抗磁或顺磁特性的物质，无论其厚度、形状、加工工艺或物理状态。
 * **运动范式 (Motion Paradigm):** 包含一切利用被动场拓扑、伪钉扎效应、统计平均原理实现的线性、旋转或多轴向精密位移。
 
-### 3. 跨学科等效性与语义封锁
+#### 3. 跨学科等效性与语义封锁
 
 本声明之效力不仅限于物理学范畴，亦完全覆盖以下跨学科领域。严禁通过改变术语名词、学科分类或描述逻辑来规避本协议。本技术之原理在不同领域可能被称为以下名称（包含但不限于），均受本声明约束：
 
@@ -645,7 +636,7 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 * **测量与统计领域:** 空间采样平均、统计精度增强、非确定性制造补偿。
 * **新兴名词:** 无论未来被称为“人工智能物理化”、“具身智能结构”或任何新创名词，只要其核心逻辑涉及“利用离散被动场的空间平均/统计分布来抵消宏观制造误差”，均视为本项目之延伸。
 
-### 4. 禁止专利化声明与学术限制
+#### 4. 禁止专利化声明与学术限制
 
 * **新颖性丧失声明:** 本项目所有原理（统计平均、空间拓扑隔离、伪钉扎、场调谐算子等）自发布之刻起即进入全球**公有领域 (Public Domain)** 作为**“现有技术 (Prior Art)”**。
 * **严禁抢注:** 严禁任何个人、机构或公司以本项目之任何细节（包括但不限于特定的磁阵列排列、调谐方式、材料组合等）申请任何形式的专利、实用新型或外观设计。
@@ -653,7 +644,7 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 * **引用强制性:** 任何基于、引用、参考或通过本项目获得灵感而撰写的学术论文、技术报告、白皮书等，必须在显著位置（摘要或引言部分）完整引用本项目链接并标注作者姓名（**曾皓**）。
 * **禁止私有化成果:** 严禁将本项目原理包装为个人或团体的独家科研成果。若未履行引用义务，视为恶意剽窃。
 
-### 5. 针对恶意诉讼的反击与撤回权
+#### 5. 针对恶意诉讼的反击与撤回权
 
 * **反击条款:** 向我发送任何法律诉讼前，原告方必须先行证明其拥有该物理过程涉及的**“物理常数”、“宇宙规律”及“统计学概率定律”**的全球所有权，并拿出全球通用的证明。
 * **法律责任:** 任何钻空子绕过本声明的行为，其所产生的全部利益应自动归属于全球和平事业。
