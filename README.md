@@ -1,4 +1,5 @@
 # Open Source Declaration
+[Read in English](#infinite-precision) | [跳转到中文](#开源声明)
 
 **This project is licensed under [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).**
 
@@ -82,6 +83,37 @@ Subsequently, through over-constrained spatial coupling and Magnetic Bridge Gaus
 $$E_{final} = E_{initial} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{initial} \cdot (\alpha)^m$$
 
 Where $\alpha$ is the attenuation coefficient of a single super-filtering module. Because the magnetic field acts as a continuous flux medium, the system effectively bypasses the discrete mechanical "hard limits." Consequently, the precision limit is governed not by hardware cost, but by the **recursive convergence logic** of the magnetic topology.
+
+### **Technical FAQ: Paradigm Shift and Engineering Logic**
+
+#### **1. Addressing Magnet Manufacturing Variance**
+
+* **The Doubt:** How can low-cost magnets with high manufacturing tolerances (>10%) ever achieve nanometer precision?
+* **The Logic:** In our stress tests using a primitive prototype, we intentionally used magnets with a 1mm height variance (a 50% difference relative to the 2mm base) and angular deviations exceeding 30°. Even under these "catastrophic" conditions, the 20-point sampling array successfully filtered the noise. Since standard manufacturing errors are far below 50%, they are treated as "negligible stochastic noise." Furthermore, **Multi-layer Aperture Shimming** creates a "Gaussian Blur" effect, physically smoothing the field before it even enters the statistical averaging stage.
+
+#### **2. Environmental Sensitivity at High Precision**
+
+* **The Doubt:** Won't thermal expansion and ambient vibration destroy nanometer-level stability?
+* **The Logic:** This is a matter of relative Scale and SNR. Our system is designed to suppress a macro-error of **3mm**. If the logic can neutralize a 3,000,000-nanometer physical deviation, then ambient thermal drifts or vibrations—typically in the micrometer range—are "buried" within the suppression bandwidth. We do not fight the environment; we make the system's baseline so robust that the environment becomes statistically invisible.
+
+#### **3. Parallelism and Global Deformation**
+
+* **The Doubt:** What happens if the entire base warps or the guide loses parallelism?
+* **The Logic:** Local deformations are filtered by the 480-point array. Global deformations (macro-warping) result in a **Virtual Centerline Offset**. This does not require expensive active control; it can be corrected by introducing a few electromagnetic coils with simple trimming resistors. By turning a knob, you realign the virtual magnetic axis—transforming a mechanical alignment problem into a simple electrical tuning task.
+
+#### **4. Magnetic Field Ripples and Peaks**
+
+* **The Doubt:** The gaps between discrete magnets must create periodic "force peaks" (ripples). How is motion smooth?
+* **The Logic:** This is resolved through **Halbach Array Topologies**. By rotating the magnetic vectors, the flux is concentrated into a continuous "Hyperplane." When combined with long-strip geometries that overlap circular arrays, the "gaps" are physically bridged. The hardware is merely the manifestation; the resulting magnetic soul is a continuous, frictionless medium.
+
+#### **5. Why don't industry giants (ASML/MRI) use this "Simple" method?**
+
+* **The Logic:** Traditional giants prioritize **Energy Efficiency** and **Dynamic Acceleration**. MRI requires extreme field strength (Tesla-level), while Lithography requires extreme G-force. These goals require expensive active superconductors. Our project prioritizes **Precision-to-Cost Ratio**, achieving 100% of the required precision at 1% of the cost for high-precision, quasi-static motion.
+
+#### **6. Breaking the "Master Tool" Limitation**
+
+* **The Doubt:** Traditional engineering states that a machine tool cannot produce a workpiece more precise than itself. If the parts are made with low-precision tools, how can the output be high-precision?
+* **The Logic:** This project breaks the **Inheritance of Error**. In traditional machining, the tool's surface is "copied" onto the workpiece. In our system, the low-precision hardware is merely a **Stochastic Seed**. The final precision is an **Emergent Property** of the field logic. Just as a rough, rusted pipe can carry a perfectly smooth stream of water, the "fluid-like" continuity of the magnetic field ignores the micro-roughness of its carrier. We are not "copying" the machine tool; we are using **Recursive Cascading** to create a new, independent coordinate system whose resolution is defined by the mathematical convergence of the field, not the physical grit of the machine tool.
 
 ---
 
@@ -310,7 +342,7 @@ If you refer to, cite, or use the principles of the "Infinite Precision Project"
 ---
 ---
 
-# 开源声明 (Open Source Declaration)
+# 开源声明
 
 **本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享 4.0 国际)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议发布。**
 
@@ -399,15 +431,46 @@ $$E_{终} = E_{初} \cdot \prod_{i=1}^{m} A_i(\omega) \approx E_{初} \cdot (\al
 
 其中 $\alpha$ 为单个超滤模块的衰减率。由于磁场是连续磁通介质，系统有效地绕过了机械接触的离散“硬极限”。因此，精度极限不再受限于硬件造价，而是取决于磁场拓扑的**递归收敛逻辑**。
 
+### **常见技术疑问解答：范式转移与工程逻辑**
+
+#### **1. 关于磁铁本身的制造误差**
+
+* **疑问：** 廉价磁铁的制造公差通常很大（>10%），如何实现纳米级精度？
+* **逻辑：** 在我们的初始“压力测试”中，我们故意使用了高度差达 1mm 的磁铁（相对于 2mm 基底，误差高达 50%），且偏转角超过 30°。即便如此，仅 20 个采样点的阵列依然成功过滤了误差。由于标准磁铁公差远低于 50%，它们在逻辑上被视为“随机噪声”。此外，通过**多层调节片的高斯模糊效应**，磁场在进入统计阶段前就已经在物理层面被平滑了。
+
+#### **2. 高精度下的环境影响（振动、热漂移）**
+
+* **疑问：** 热胀冷缩和环境振动难道不会瞬间破坏纳米级的稳定性吗？
+* **逻辑：** 这是一个关于“尺度”与“信噪比”的问题。本系统旨在抑制 **3mm** 级的宏观误差。如果一套逻辑足以中和 3,000,000 纳米的物理偏差，那么微米级的环境扰动就会被完全“淹没”在系统的抑制带宽内。我们不是在对抗环境，而是让系统的鲁棒性远超环境噪声。
+
+#### **3. 关于平行度与整体变形**
+
+* **疑问：** 如果基座整体变形或导轨不平行怎么办？
+* **逻辑：** 局部变形会被 480 点阵列自动过滤。整体宏观变形仅仅导致**“虚拟中心线”发生偏置**。这不需要百万级的控制系统，只需要几个电磁线圈和简单的电位器。通过旋转按钮调节电流，即可修正虚拟轴线——将机械对齐问题转化为简单的电路调谐问题。
+
+#### **4. 磁铁间隙导致的突峰（磁场跳动）**
+
+* **疑问：** 离散磁铁之间的间隙必然会导致力矩波动，如何保证平滑？
+* **逻辑：** 通过 **海尔贝克阵列（Halbach Array）** 及其变种解决。磁矢量旋转将磁通量集中并平滑化为一个连续的“超平面”。硬件只是表象，最终形成的磁场“灵魂”是一个连续、无摩擦的介质。
+
+#### **5. 既然这么强，为什么光刻机或核磁共振（MRI）不用？**
+
+* **逻辑：** 巨头追求的是**“能效比”**和**“极端动态响应”**（如 10G 以上加速度）。这迫使它们使用昂贵的有源超导系统。而本项目追求的是**“精度成本比”**。我们证明了：在非极高速场景下，用 1% 的成本即可实现 100% 的精度性能。
+
+#### **6. 跳出“母机精度限制”的质疑**
+
+* **疑问：** 传统工程学认为，机床加工不出比自己精度更高的东西。如果零件是低精度机床做的，凭什么输出高精度？
+* **逻辑：** 本项目打破了**“误差继承”**的宿命。传统加工是“复制”机床的误差，而我们的系统将低精度硬件仅视为一个**“随机种子（Stochastic Seed）”**。最终的精度是磁场逻辑的**“涌现属性（Emergent Property）”**。就像粗糙生锈的铁管可以流出完美平滑的水流一样，磁场的“流体式”连续性可以忽略载体表面的微观粗糙度。我们不是在复制机床的精度，而是通过**六阶递归级联**创造了一个全新的、独立的坐标系，其分辨率由磁场拓扑的数学收敛决定，而非母机的机械磨损。
+
 ---
 
-实验数据与结果:
+### 实验数据与结果:
 
-实验材料:两根木棍（筷子）、1mm厚度纳米胶带、502胶水、较硬的光滑塑料薄片、牙签、棉绳、10*2mm圆形钕磁铁、50*20*2mm长方形钕磁铁
+* **实验材料:** 两根木棍（筷子）、1mm厚度纳米胶带、502胶水、较硬的光滑塑料薄片、牙签、棉绳、10*2mm圆形钕磁铁、50*20*2mm长方形钕磁铁
 
-实验总花费:35CNY（5USD）
+* **实验总花费:** 35CNY（5USD）
 
-大致安装方式:木棍上贴上纳米胶，然后放上磁铁，圆形磁铁间距约5mm，将长方形磁铁中间隔开一些用牙签与胶水粘接，然后垂直按入只撕开一边的纳米胶上，或者说撕开另一边贴上塑料片，顶端粘上棉绳，然后两根木棍用斥力将长方形磁铁挤在中间。（注意，安装过程中要确定两根棍子都与长方形磁铁是相斥的）
+* **大致安装方式:** 木棍上贴上纳米胶，然后放上磁铁，圆形磁铁间距约5mm，将长方形磁铁中间隔开一些用牙签与胶水粘接，然后垂直按入只撕开一边的纳米胶上，或者说撕开另一边贴上塑料片，顶端粘上棉绳，然后两根木棍用斥力将长方形磁铁挤在中间。（注意，安装过程中要确定两根棍子都与长方形磁铁是相斥的）
 
 本次实验验证了在许多几乎不可饶恕的错误之下，系统本身能否继续实现，并验证了其非凡的鲁棒性，实验条件为以下:
 
