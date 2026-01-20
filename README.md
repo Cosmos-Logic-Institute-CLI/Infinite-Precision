@@ -209,7 +209,7 @@ Of course, it is absolutely fine if you think that is not enough, because this i
 
 ### Finally, the tuning body:
 
-* **Simple:** Purchase pre-cut tuning sheets of 0.5  or your preferred size, then simply measure the magnetic force or infer the area needing adjustment from the results, and place them for adjustment. They can also be permanently fixed with glue or something else. After a series of processes from reference surface to manufacturing to installation, the magnetic field itself is already very flat, and micro-adjustments at this time can make it even flatter.
+* **Simple method:** Purchase pre-cut tuning sheets of 0.5  or your preferred size, then simply measure the magnetic force or infer the area needing adjustment from the results, and place them for adjustment. They can also be permanently fixed with glue or something else. After a series of processes from reference surface to manufacturing to installation, the magnetic field itself is already very flat, and micro-adjustments at this time can make it even flatter.
 * **Harder:** For the 1st layer, it is recommended to use a thickness of 0.2mm or more. Use a custom 36-zone tuning sheet divided by a cross grid, dividing a round magnet into 36 equal square or other shaped open areas. If conditions permit, perform measurements and close off areas with stronger magnetic fields; if not, install directly. The 2nd layer uses a grid tuning sheet with larger diameter orderly or disorderly arranged circular or square holes. The 3rd layer uses a grid tuning sheet with smaller diameter orderly or disorderly arranged circular or square holes. It is recommended that the thickness decreases layer by layer.
 * **Even harder:** Use custom tuning sheets after computer simulation, or directly use a tuning body, for example, placing it to perfectly adjust the magnetic field into a hyperplane, or simply increase the number of layers to break the magnetic field into a "fluid" layer by layer.
 
@@ -511,7 +511,9 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 *你可能想质疑为什么调节片的调节精度是0.002mm我却说能达到0.001mm，首先目前磁场的误差根本不会来到0.002mm，这是40个磁铁平均出来的，实际上单个磁铁15%的误差至少可以通过调节片调节到1%以下，所以说可以达到0.001mm。*
 
-*还是觉得质疑，那就别管推理结果，只使用上面的实验数据，5美元做到0.01mm难道还觉得不够吗。*
+### 还是觉得质疑？
+
+那就别管推理结果，只使用上面的实验数据，5美元做到0.01mm难道还觉得不够吗。
 
 当然觉得不够也肯定是没有关系的，因为这是无限精度，上面的实验内容也只是在正常一点点的情况下，并且没有采用结构设计、磁场排列组合设计、模块化串并联拼装等无限方案之前的结果，虽然仅通过增加采样数也可以达到理论上的无限精度，但我的目的是低成本，所以让我们接下来继续探讨后续的无限方案。
 
@@ -551,7 +553,7 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 ### 最后是调谐体:
 
-* **简单一点:** 购买剪裁好的0.5c㎡或者你喜欢大小的调谐片，然后简单测量磁力或者仅凭结果反推出需要调整的地方，放上去进行调整，也可以使用胶水或者其他东西永久固定，这样从基准面到制造再到安装一套工序下来磁场本身就已经很平了，这个时候进行微量调节却还可以让它更平。
+* **简单的方法:** 购买剪裁好的0.5c㎡或者你喜欢大小的调谐片，然后简单测量磁力或者仅凭结果反推出需要调整的地方，放上去进行调整，也可以使用胶水或者其他东西永久固定，这样从基准面到制造再到安装一套工序下来磁场本身就已经很平了，这个时候进行微量调节却还可以让它更平。
 
 * **困难一点:** 第1层建议使用0.2mm厚度以上，使用定制的使用十字网格划分的36分区调谐片，将一块圆形磁铁划分为36个相等方形或者其他形状开口区域，有条件进行测量，将磁场较强的区域封闭，没条件直接安装，第2层使用较大直径有序或者无序排列的圆孔或者方孔网格调谐片，第3层使用较小直径有序或者无序排列的圆孔或者方孔网格调谐片，建议厚度层层递减。
 
