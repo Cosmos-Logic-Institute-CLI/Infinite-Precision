@@ -2,7 +2,9 @@
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[Read in English](#infinite-precision) | [跳转到中文](#开源声明)
+[Read in English](#infinite-precision) | [跳转到中文](#《无限精度计划:一千元实现一纳米精度》)
+
+https://doi.org/10.5281/zenodo.18616710
 
 ---
 
