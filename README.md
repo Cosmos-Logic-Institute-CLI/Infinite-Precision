@@ -1,40 +1,8 @@
-## Open Source Declaration
-
-![Screenshot_20260131_193057](https://github.com/user-attachments/assets/b6baee41-e4b2-4d5c-9472-73c8280f6479)
-
-
-**This project is licensed under [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
-
-[Read in English](#infinite-precision) | [跳转到中文](#开源声明)
-
-**Disclaimer and Communication Statement:**
-*Because I do not speak English, the article is translated by AI, and AI participated in the entire content writing process. If any patented terms or professional terms are cited due to AI errors or translation inaccuracies, please negotiate with the respective AI companies. You may leave a message on this website to notify me of necessary changes. However, as I do not speak English, I cannot guarantee a correct understanding of the intent or accurate modification of the article. This is my first time actively using this website to publish content; previously, I only visited in an unregistered state and am unfamiliar with the website's functions. My average visit frequency to this website is once a year, so I will likely address the above errors within one year, though delays may occur due to network connection issues or other personal reasons. I suggest that if any infringement occurs due to the above reasons, the infringed party should immediately modify the infringing paragraph on this website to a non-infringing version and leave a message. Subsequent actions will be based on this message, and readers may refer to this corrected baseline as a standard.*
-
----
-
-**A Friendly Note on Our License**
-
-To protect the spirit of open exploration, this project is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. Our primary goal is to prevent large-scale commercial entities from patenting or monopolizing this community-driven idea without contribution.
-
-**However, to our fellow builders and pioneers, our stance is open and encouraging:**
-
-1.  **For Individuals, Academics, Researchers, and Hobbyists:** You are heartily welcomed to use, modify, and build upon this design for learning, research, and personal projects.
-2.  **For Developers & Makers building prototypes, testing, and sharing improvements:** We consider you **core collaborators**. Your practical work to validate and advance this design is not considered "commercial use" in our view. We want to see your builds and learn from your results.
-3.  **For Teams or Startups with clear commercial interests:** We welcome you too! The "NonCommercial" clause is not meant to stop innovation but to ensure fair collaboration. **If you have a serious plan to develop a product or service based on this project, please contact us directly at [github].** We are happy to discuss granting a specific, free commercial-use license. Our mission is to see this idea materialize, not to create unnecessary barriers.
-
-Let's build the future, together.
-
----
-
 ## "Infinite Precision Project: Achieving 1nm Precision for 1000 Yuan"
 
-*Hello everyone, I am Zeng Hao from China. I am open-sourcing this project simply because applying for patents and writing papers is more difficult than discovering a new path.*
+**Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-*This article and its extended content are published solely on the principles of world peace, human equality, and common prosperity. It shall not be used for any terrorist activities, military purposes, or any technology that harms the world, nations, individuals, the environment, animals, etc., or results in such consequences. The article and its extended content must not be used for any direct or indirect commercial activities. Corporations are prohibited from using it, and I reserve the right to invalidate any related patents and "fences" built based on this article.*
-
-*Before sending me a lawyer's letter or initiating legal action, please first incorporate the involved physical constants, universal laws, and professional terms into corporate or personal ownership, and clearly mark that others are not allowed to use them. Furthermore, provide evidence that is globally recognized and accepted by all countries and personnel using this article and its extended technology.*
-
-*I do not know how people might exploit loopholes to bypass these regulations, but even if you do, your patents, papers, and other carriers must prominently cite the link to this article and include my name. However, even if you do so, I reserve the right to withdraw your publication involving this article and its extended content at any time. By basing your work on, extending, or citing this article, it means you agree to all the terms and interpretations of rights in this entire article.*
+[Read in English](#infinite-precision) | [跳转到中文](#开源声明)
 
 ---
 
@@ -693,117 +661,14 @@ Of course, it is absolutely fine if you think that is not enough, because this i
 * **Full-active:** Use some way to actively increase and control thrust, and use some way to make the slider more stable and improve precision again.
 * **Phase shift:** Fix the slider and let the base act as the moving part.
 
----
-
-### ⚖️ Global Legal & Rights Declaration
-
-**"The 'Error Acceptance Paradigm' defined in this project may be referred to as Physical Intelligence or Structural Intelligence in different disciplines; it is essentially a low-dimensional utilization of physical laws."**
-
-#### 1. Core Principles and Prohibitions
-
-* This article and its extended content are published solely based on the principles of **world peace, human equality, and common prosperity**. It shall not be used for any terrorist activities, military purposes, or any technology that harms the world, nations, individuals, environment, animals, etc., or results in such consequences.
-* This article and its extended content **shall not be used for any direct or indirect commercial activities. Corporate use is strictly prohibited.**
-* Any act of basing work on, extending, or citing any part of this project constitutes full agreement to all terms and interpretations of rights herein. I (Zeng Hao) reserve the ultimate right of interpretation.
-
-#### 2. Maximization of Technical Scope
-
-To prevent any circumvention of this agreement by changing materials, shapes, or media, the technical scope of this project includes but is not limited to:
-
-* **Base:** Including but not limited to wood, stone (granite, marble, etc.), metal, plastic, composite materials, liquid surfaces, air-cushion surfaces, or any macro-object providing physical support.
-* **Magnetic Source/Field:** Including but not limited to NdFeB, ferrites, samarium cobalt, electromagnets, superconductors (diamagnetism), quasicrystal magnetic materials, and all substances capable of generating static or dynamic magnetic fields.
-* **Tuning Operator:** Including all substances with magnetic permeability, diamagnetic, or paramagnetic properties, regardless of thickness, shape, processing technology, or physical state.
-* **Motion Paradigm:** Including all linear, rotational, or multi-axial precision displacements realized using passive field topology, pseudo-pinning effects, and statistical averaging principles.
-
-#### 3. Interdisciplinary & Semantic Sealing
-
-The validity of this declaration is not limited to the field of physics and covers the following interdisciplinary areas. It is strictly prohibited to circumvent this agreement by changing terminology, disciplinary classification, or description logic. Equivalent terms in different fields are bound by this declaration:
-
-* **Mechanics & Manufacturing:** Kinematic Averaging, Elastic Averaging, Over-constrained Positioning, Structural Intelligence.
-* **Physics & Materials:** Physical Intelligence, Passive Field Computing, Metamaterial Topology, Magnetic Potential Well Self-assembly.
-* **Control & Algorithms:** Hardware-as-an-Algorithm, Software-free Closed-loop, Analog Physical Computing, Feedforward Hardware Matrix.
-* **Metrology & Statistics:** Spatial Sampling Averaging, Statistical Precision Enhancement, Non-deterministic Manufacturing Compensation.
-* **Emerging Terms:** AI Physicalization, Embodied Intelligent Structures, or any new terms involving the use of discrete passive field spatial averaging/statistical distribution to offset macro-manufacturing errors.
-
-#### 4. Anti-Patenting and Academic Restrictions
-
-* **Loss of Novelty Statement:** All principles of this project (statistical averaging, spatial topological isolation, pseudo-pinning, field tuning operators, etc.) enter the global **Public Domain** as **"Prior Art"** upon publication.
-* **Anti-Squatting:** Any individual, institution, or company is strictly prohibited from applying for any patents, utility models, or designs based on any details of this project.
-* **Invalidation Authority:** I (Zeng Hao) reserve the original right to initiate legal action and apply for the invalidation of any "patent walls" built upon this project at patent offices worldwide.
-* **Mandatory Citation:** Any academic paper, technical report, or white paper inspired by this project must prominently cite the link to this project and attribute the author (**Zeng Hao**).
-* **Anti-Privatization:** It is strictly forbidden to package the principles of this project as the exclusive research results of individuals or groups. Unattributed use will be treated as malicious plagiarism.
-
-#### 5. Counter-Litigation and Revocation
-
-* **Counter-Litigation Clause:** Before initiating any legal action against me, the plaintiff must first prove global ownership of the **"Physical Constants," "Laws of the Universe," and "Laws of Statistical Probability"** involved in these processes and provide evidence that such ownership is globally accepted.
-* **Legal Liability:** Any benefits generated by attempting to bypass this declaration shall automatically belong to the cause of global peace.
-* **Right of Revocation:** I (Zeng Hao) reserve the right to revoke authorization for specific entities at any time. Citing this project represents your acknowledgement that physical laws are a common heritage of humanity, not corporate property.
-
----
-
-### 📚 How to Cite
-
-If you refer to, cite, or use the principles of the "Infinite Precision Project" in any academic papers, technical reports, open-source projects, or publications, please use the following standard formats. **Failure to cite as required will be considered a violation of the open-source agreement and potential plagiarism.**
-
-#### 1. Standard Academic Citation
-
-> **Zeng, Hao. (2026).** *Infinite Precision Project: A New Paradigm for Precision Motion Based on Passive Field Computation and Statistical Averaging.* GitHub Repository. Available at: [https://github.com/ZengHaohei/Infinite-Precision]
-
-#### 2. BibTeX (For LaTeX/Overleaf Users)
-
-```bibtex
-@misc{zeng2026infinite,
-  author = {Zeng, Hao},
-  title = {Infinite Precision Project: Achieving 1nm Precision via Passive Field Computation and Pseudo-Pinning Effects},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/ZengHaohei/Infinite-Precision}},
-  note = {CC BY-NC-SA 4.0 License}
-}
-
-```
-
-#### 3. Software/Project Citation
-
-> **Project Name:** Infinite Precision Project (Error Acceptance Paradigm)
-> **Author:** Zeng Hao (曾皓)
-> **License:** CC BY-NC-SA 4.0
 
 ---
 ---
 
-## 开源声明
-
-**本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享 4.0 国际)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议发布。**
-
-**免责及沟通声明：**
-*由于我不会英文，所以文章为AI翻译，并且全程AI参与内容编写，由AI自身以及翻译错误导致引用了某些专利名词或者专业名词请与AI公司进行协商，然后进行在此网站留言通知我更改，但是由于我本人不会英语，不保证正确理解其意图与正确修改文章，本人第1次主动使用此网站发布内容，此前仅为未登录状态，所以不了解网站任何功能，本人此前访问此网站平均频率是一年一次，所以对于以上错误我应该会在一年之内更改，但是可能由于网络连接问题或者其他个人原因导致延期，建议由以上原因导致的侵权行为立刻由被侵权者将此网站的侵权段落修改为无侵权版本后进行留言，之后以此留言为准，阅读者可以自行参考此正确基准。*
-
----
 
 ## 《无限精度计划:一千元实现一纳米精度》
 
-*大家好我是来自中国的曾皓，我进行开源仅仅只是因为申请专利与编写论文比发现一条新道路更加困难。*
-
-*本文章及延伸内容仅以世界和平、人人平等、共同富裕为原则发布，不得用于任何恐怖活动、军事等危害世界、国家、个人、环境、动物等以及会造成这些结果的技术，其文章及延伸内容不得用于任何直接以及间接商业活动，公司禁止使用，并且对于基于这篇文章建立的相关专利以及构成的围墙我拥有无效它们的权利。*
-
-*向我发送律师函等法律诉讼之前，请先将所涉及物理常数、宇宙规律、专业名词等纳入公司或个人所有，并且明确标注其他人不得使用，并拿出世界范围通用并且所有使用这篇文章以及延伸技术的国家以及人员接受的证明。*
-
-*不知道人们会怎样钻空子绕过那些条例，但即使你钻空子，你的专利、论文等其他载体也必须在显眼位置引用这篇文章的链接，并且标注我的名字，然而即使你这样做了，我也需要拥有随时可以撤回你发布的涉及这篇文章以及其延伸内容的权利，只要你基于、延伸、引用这篇文章就代表你同意整篇文章的全部条款以及权力解释。*
-
----
-
-**关于项目许可证的友好说明**
-
-为保护开放探索的精神，本项目采用 **知识共享 署名-非商业性-相同方式共享 4.0 (CC BY-NC-SA 4.0)** 许可证。我们的主要目的是防止大型商业实体在无需贡献的情况下，将这一社区驱动的想法专利化或垄断。
-
-**然而，对于我们的建造者同伴和先驱们，我们的立场是开放且鼓励的：**
-
-1.  **致个人、学者、研究员和爱好者：** 我们热忱欢迎您将本设计用于学习、研究和个人项目，可以自由使用、修改和构建。
-2.  **致那些正在构建原型、进行测试和分享改进的开发者与创客：** 我们将您视为 **核心合作者**。您为验证和推进此设计所做的实践工作，在我们看来不属于“商业用途”。我们渴望看到您的构建成果，并从您的经验中学习。
-3.  **致有明确商业意向的团队或初创公司：** 我们同样欢迎您！“非商业性”条款的目的并非阻止创新，而是为了确保公平协作。**如果您有基于本项目开发产品或服务的具体计划，请直接通过 [github] 联系我们。** 我们很乐意讨论并授予一项特定的、免费的商业使用许可。我们的使命是让想法变为现实，而非设置不必要的障碍。
-
-让我们，共同构建未来。
+**开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
@@ -1461,81 +1326,6 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 * **相位移动:** 固定滑块，使基座充当移动部件。
 
----
-
-### ⚖️ 核心权利与全球法律准则
-
-**“本项目定义的‘误差接纳范式’，在不同学科下可能被称为物理智能化或结构智能化，本质都是对物理规律的降维利用。”**
-
-#### 1. 核心准则与禁令
-
-* 本文章及延伸内容仅以**世界和平、人人平等、共同富裕**为原则发布，不得用于任何恐怖活动、军事等危害世界、国家、个人、环境、动物等以及会造成这些结果的技术。
-* 本文章及延伸内容**不得用于任何直接以及间接商业活动，公司禁止使用。**
-* 只要你基于、延伸、引用这篇文章，即代表你同意整篇文章的全部条款以及权利解释。本人（曾皓）拥有最高解释权。
-
-#### 2. 权利覆盖范围之极大化定义
-
-为了彻底封死任何通过改变材料、形状或介质来规避本协议的行为，特此声明本项目涉及的技术范畴包含但不限于：
-
-* **基座 (Base):** 包含但不限于木材、石材（花岗岩、大理石等）、金属、塑料、复合材料、液体表面、气垫表面，或任何提供物理支撑的宏观物体。
-* **磁源/磁场 (Magnetic Source/Field):** 包含但不限于钕铁硼、铁氧体、钐钴、电磁铁、超导体（抗磁性）、准晶体磁性材料，以及一切能够产生静磁场或动态磁场的物质。
-* **调谐单元 (Tuning Operator):** 包含一切具有导磁、抗磁或顺磁特性的物质，无论其厚度、形状、加工工艺或物理状态。
-* **运动范式 (Motion Paradigm):** 包含一切利用被动场拓扑、伪钉扎效应、统计平均原理实现的线性、旋转或多轴向精密位移。
-
-#### 3. 跨学科等效性与语义封锁
-
-本声明之效力不仅限于物理学范畴，亦完全覆盖以下跨学科领域。严禁通过改变术语名词、学科分类或描述逻辑来规避本协议。本技术之原理在不同领域可能被称为以下名称（包含但不限于），均受本声明约束：
-
-* **力学与制造领域:** 运动学平均 (Kinematic Averaging)、弹性平均 (Elastic Averaging)、超约束定位 (Over-constrained Positioning)、结构智能化 (Structural Intelligence)。
-* **物理与材料领域:** 物理智能化 (Physical Intelligence)、被动场计算 (Passive Field Computing)、超材料拓扑 (Metamaterial Topology)、磁势阱自组装。
-* **控制与算法领域:** 硬件算法化 (Hardware-as-an-Algorithm)、无软件闭环 (Software-free Closed-loop)、模拟物理计算、前馈硬件矩阵。
-* **测量与统计领域:** 空间采样平均、统计精度增强、非确定性制造补偿。
-* **新兴名词:** 无论未来被称为“人工智能物理化”、“具身智能结构”或任何新创名词，只要其核心逻辑涉及“利用离散被动场的空间平均/统计分布来抵消宏观制造误差”，均视为本项目之延伸。
-
-#### 4. 禁止专利化声明与学术限制
-
-* **新颖性丧失声明:** 本项目所有原理（统计平均、空间拓扑隔离、伪钉扎、场调谐算子等）自发布之刻起即进入全球**公有领域 (Public Domain)** 作为**“现有技术 (Prior Art)”**。
-* **严禁抢注:** 严禁任何个人、机构或公司以本项目之任何细节（包括但不限于特定的磁阵列排列、调谐方式、材料组合等）申请任何形式的专利、实用新型或外观设计。
-* **无效化授权:** 本人（曾皓）保留对任何基于本项目建立的“专利围墙”进行法律追诉及向全球专利局提起无效化申请的原始权利。
-* **引用强制性:** 任何基于、引用、参考或通过本项目获得灵感而撰写的学术论文、技术报告、白皮书等，必须在显著位置（摘要或引言部分）完整引用本项目链接并标注作者姓名（**曾皓**）。
-* **禁止私有化成果:** 严禁将本项目原理包装为个人或团体的独家科研成果。若未履行引用义务，视为恶意剽窃。
-
-#### 5. 针对恶意诉讼的反击与撤回权
-
-* **反击条款:** 向我发送任何法律诉讼前，原告方必须先行证明其拥有该物理过程涉及的**“物理常数”、“宇宙规律”及“统计学概率定律”**的全球所有权，并拿出全球通用的证明。
-* **法律责任:** 任何钻空子绕过本声明的行为，其所产生的全部利益应自动归属于全球和平事业。
-* **最终撤回权:** 本人（曾皓）拥有随时撤回对特定对象授权的解释权。引用本项目即代表你承认：物理法则是全人类共有的，而非公司的私产。
-
----
-
-### 📚 How to Cite / 如何引用
-
-如果你在学术论文、技术报告、开源项目或任何出版物中参考、引用或使用《无限精度计划》的原理，请使用以下标准格式。**未按要求引用将被视为违反开源协议及潜在的剽窃行为。**
-
-#### 1. Standard Academic Citation / 标准学术引用格式
-
-> **Zeng, Hao. (2026).** *Infinite Precision Project: A New Paradigm for Precision Motion Based on Passive Field Computation and Statistical Averaging.* GitHub Repository. Available at: [https://github.com/ZengHaohei/Infinite-Precision]
-
-#### 2. BibTeX (For LaTeX/Overleaf Users)
-
-```bibtex
-@misc{zeng2026infinite,
-  author = {Zeng, Hao},
-  title = {Infinite Precision Project: Achieving 1nm Precision via Passive Field Computation and Pseudo-Pinning Effects},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/ZengHaohei/Infinite-Precision}},
-  note = {CC BY-NC-SA 4.0 License}
-}
-
-```
-
-#### 3. Software/Project Citation / 软件与项目引用
-
-> **Project Name:** Infinite Precision Project (Error Acceptance Paradigm)
-> **Author:** Zeng Hao (曾皓)
-> **License:** CC BY-NC-SA 4.0
 
 ---
 
@@ -1545,10 +1335,10 @@ https://github.com/user-attachments/assets/9663c2b3-ce2d-4370-a835-37219e6c3263
 
 1. **技术性质：** 本项目（"无限精度"）中所包含的所有内容，包括但不限于设计逻辑、物理公式、工程图纸及商业模型，部分由大型语言模型 AI 辅助生成。尽管已进行逻辑审查，但 AI 生成的内容可能存在计算误差、物理局限性或未预见的工程风险。
 2. **风险自担：** 本项目涉及超高速旋转（高 G 力）、高压容器及极端高温环境。任何个人或机构在尝试复现、制造或运行相关设备时，必须具备专业的工程知识与安全防护措施。
-3. **责任豁免：** 作者（[曾皓]）及 AI 编写参与方不对应因使用、复现或改进本开源技术而导致的任何直接或间接后果负责，包括但不限于设备损坏、财产损失、人员伤亡或法律纠纷。
+3. **责任豁免：** 作者及 AI 编写参与方不对应因使用、复现或改进本开源技术而导致的任何直接或间接后果负责，包括但不限于设备损坏、财产损失、人员伤亡或法律纠纷。
 4. **非医疗/军事用途：** 本项目仅供科学研究与实验参考，严禁在未获得相关国家资质的情况下用于非法用途。
 
 1. **Technical Nature:** All content within this project ("Infinite Precision"), including but not limited to design logic, physical formulas, engineering schematics, and business models, was partially generated with the assistance of Large Language Model (LLM) AI. While logically reviewed, AI-generated content may contain calculation errors, physical limitations, or unforeseen engineering risks.
 2. **Assumption of Risk:** This project involves ultra-high-speed rotation (High G-force), high-pressure vessels, and extreme thermal environments. Any individual or organization attempting to replicate, manufacture, or operate such equipment must possess professional engineering expertise and strictly adhere to safety protocols.
-3. **Limitation of Liability:** The author ([ZengHao]) and the AI contributors shall not be held liable for any direct or indirect consequences arising from the use, replication, or modification of this open-source technology, including but not limited to hardware failure, property damage, personal injury, or legal disputes.
+3. **Limitation of Liability:** The author and the AI contributors shall not be held liable for any direct or indirect consequences arising from the use, replication, or modification of this open-source technology, including but not limited to hardware failure, property damage, personal injury, or legal disputes.
 4. **Non-Regulated Use:** This project is intended for scientific research and experimental reference only. Use for illegal purposes or in regulated sectors without proper national certification is strictly prohibited.
