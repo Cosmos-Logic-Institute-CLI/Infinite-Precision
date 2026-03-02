@@ -6,7 +6,7 @@
 
 https://doi.org/10.5281/zenodo.18616710
 
-**声明：**
+### **声明：**
 某些论文在本项目发布后大批量爆发的“方向一致”是否需要遵守协议呢？不需要遵守的话其实也可以撤回发表了，学术真是过于端正了，我会假装没看见“暂时”原谅你们，至于说没看见引用，请直接把当前页面链接与doi放进去，不要说什么你不知道是学生给的，这不应该向我解释。最后，希望不要让我主动去发邮件。
 
 不联系我是因为想商用赚钱吗？很抱歉哪怕变成公用知识，我也有权让大家免费用我的方案而不需要购买你的付费方案，并且我有权授予使用此项目的人代理诉讼权对你进行法律诉讼。
@@ -19,7 +19,7 @@ https://doi.org/10.5281/zenodo.18616710
 
 “学术大拿”们喜欢名声就好好拿着，应该也只有“名声”了，还是说这是因为讨厌导师与上司或者干脆是整个公司给下的套呢？那真是足智多谋，值得夸奖，我也很讨厌它们。
 
-**Statement:**
+### **Statement:**
 Certain papers have burst forth in large quantities with a "consistent direction" after the release of this project; do they need to comply with the agreement? If you don't need to comply, you might as well retract your publication. Academic integrity is far too "upright" for its own good. I will pretend I didn't see it and "temporarily" forgive you. As for claiming you didn't see the citation, please put the link of the current page and the DOI directly into it. Do not say you didn't know it was provided by a student; that is not something you should explain to me. Finally, I hope you don't make me take the initiative to send emails.
 
 Is the reason for not contacting me because you want to commercialize and make money? I'm sorry, even if this becomes public knowledge, I have the right to let everyone use my solution for free without purchasing your paid plan, and I have the right to grant those who use this project the power of attorney to pursue legal action against you.
